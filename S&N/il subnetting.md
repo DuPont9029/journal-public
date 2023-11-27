@@ -12,6 +12,17 @@
 ### in questo caso ogni rete può veicolare 2^5 -2 (il primo per la rete e l'ultimo per il broadcast) quindi 32 - 2 = 30
 
 
+
+
+
+## Regole utili prima di iniziare:
+
+### subnet mask:
+### - per scrivere la subnet mask metti ad uno tutti i bit che identificano la rete e metti a zaro tutti i bit che identificano l'host
+
+### indirizzo di rete:
+### - per scrivere l'indirizzo di rete metti a zero tutti i bit che identificano l'host
+
 &nbsp;
 &nbsp;
 
