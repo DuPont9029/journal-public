@@ -1,6 +1,6 @@
 ---
 created: 2026-09-26T16:54:51+02:00
-modified: 2026-09-26T17:13:40+02:00
+modified: 2026-09-26T17:16:37+02:00
 ---
 
 # Inventario trasferimento trigoria
@@ -32,3 +32,4 @@ modified: 2026-09-26T17:13:40+02:00
 - pantaloni pijama
 - libri di medicina
 - quaderno
+- camicie
