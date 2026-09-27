@@ -1,6 +1,6 @@
 ---
 created: 2026-09-26T16:54:51+02:00
-modified: 2026-09-27T14:19:21+02:00
+modified: 2026-09-27T15:44:34+02:00
 ---
 
 # Inventario trasferimento trigoria
@@ -33,12 +33,17 @@ modified: 2026-09-27T14:19:21+02:00
 - [x] 1 webcam
 - [x] computer portatile
 - [x] caricatore computer portatile 
-- caricatore orologio
-- pantaloni pijama
-- libri di medicina
-- quaderno
+- [x] caricatore orologio
+- [x] pantaloni pijama
+- [x] libri di medicina
+- [x] quaderno
+- [x] gamepad nero
+- [x] 2 ventilatorini
 - camicie
 - shampii dermatite
+- dentifricio forbest
+- colluttorio forbest
+- phon
 - bagnoschiuma
 - deodoranti
 - zampironi
