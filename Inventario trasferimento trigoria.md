@@ -1,6 +1,6 @@
 ---
 created: 2026-09-26T16:54:51+02:00
-modified: 2026-09-27T15:44:34+02:00
+modified: 2026-09-27T15:44:55+02:00
 ---
 
 # Inventario trasferimento trigoria
@@ -43,7 +43,7 @@ modified: 2026-09-27T15:44:34+02:00
 - shampii dermatite
 - dentifricio forbest
 - colluttorio forbest
-- phon
+-  [x] phon
 - bagnoschiuma
 - deodoranti
 - zampironi
