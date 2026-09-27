@@ -1,6 +1,6 @@
 ---
 created: 2026-09-26T16:54:51+02:00
-modified: 2026-09-27T15:47:33+02:00
+modified: 2026-09-27T15:48:10+02:00
 ---
 
 # Inventario trasferimento trigoria
@@ -11,10 +11,10 @@ modified: 2026-09-27T15:47:33+02:00
 - [x] 10 magliette
 - [x] 4 pantaloni lunghi
 - [x] 3 pantaloni corti
-- 4 asciugamani medi (2 grigi 2 verdi)
-- 4 asciugamani piccoli (2 grigi, 2 verdi)
-- 3 teli doccia
-- 1 beauty case 
+- [x] 4 asciugamani medi (2 grigi 2 verdi)
+- [x] 4 asciugamani piccoli (2 grigi, 2 verdi)
+- [x] 3 teli doccia
+- [x] 1 beauty case 
 - paio oantofole
 
 # da trasferire il 27 settembre:
